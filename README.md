@@ -1,9 +1,5 @@
-### ¡Hola! Soy Fran Muñoz Narbona 🌿
-
 🎓 Estudiante de Ingeniería Forestal y articulando con el Magíster en Recursos Naturales en la Pontificia Universidad Católica de Chile.  
 📍 Santiago, Chile
-
----
 
 ### 🌱 Sobre mí
 
@@ -27,5 +23,3 @@ Me enfoco en análisis espaciales y ambientales. Me motivan temas como el clima,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisca-mu%C3%B1oz-narbona-a53098256/)
 - 📧 [fmnarbona@uc.cl]
-
-¡Gracias por visitar mi perfil! 😊
