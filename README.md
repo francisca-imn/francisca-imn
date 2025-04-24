@@ -7,11 +7,9 @@
 
 ### 🌱 Sobre mí
 
-Tengo un fuerte interés en la ciencia abierta, la programación y la ciencia de datos, con énfasis en R. También estoy explorando Python y su potencial para análisis reproducibles. Me interesa especialmente el análisis de datos espaciales y ambientales, así como el trabajo con bases de datos generales, desde planillas simples hasta conjuntos complejos. 
+Me interesa la ciencia abierta, el análisis de datos y la programación, con especialización en R y exploración activa de Python. Me he preocupado que mi perfil profesional sea en estos temas (me queda mucho por aprender); hice mi práctica en modelamiento de distribución de especies con herramientas reproducibles, y actualmente trabajo part-time en el área de datos de Cienciambiental. También participo en un club de R con compañeros del magíster, donde aprendemos colaborativamente.
 
-Realicé mi práctica profesional en modelamiento de distribución de especies utilizando herramientas reproducibles, y actualmente trabajo en el área de datos de la empresa Cienciambiental (part-time), donde participo en el procesamiento, análisis y visualización de datos ambientales.
-
-Disfruto aprender en comunidad: junto a compañeros del magíster formamos un pequeño club de R donde compartimos dudas y practicamos juntos. Me interesa profundamente el clima, la biodiversidad y las ciencias naturales, y me considero una persona proactiva y comprometida con el aprendizaje continuo.
+Me enfoco en análisis espaciales y ambientales. Me motivan temas como el clima, la biodiversidad y las ciencias naturales, y me considero proactiva y comprometida con el aprendizaje continuo.
 
 ---
 
