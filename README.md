@@ -9,16 +9,6 @@ Me enfoco en análisis espaciales y ambientales. Me motivan temas como el clima,
 
 ---
 
-### 🧪 Experiencia y habilidades
-
-- **Análisis de datos en R**: uso de paquetes como `tidyverse`, `biomod2`, entre otros.
-- **Modelación de distribución de especies (SDMs)**: aplicación de técnicas para entender y predecir la distribución de especies en diferentes escenarios.
-- **Sistemas de Información Geográfica (GIS)**: manejo de herramientas como QGIS, ArcGIS y Google Earth Engine para el análisis espacial.
-- **Comunicación científica**: elaboración de informes y presentaciones utilizando RMarkdown y Quarto.
-- **Docencia**: experiencia enseñando R a estudiantes de pregrado, enfocándome en ejercicios prácticos y aplicados.
-
----
-
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisca-mu%C3%B1oz-narbona-a53098256/)
