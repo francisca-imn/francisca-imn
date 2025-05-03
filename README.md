@@ -13,3 +13,4 @@ Me enfoco en análisis espaciales y ambientales. Me motivan temas como el clima,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisca-mu%C3%B1oz-narbona-a53098256/)
 - 📧 [fmnarbona@uc.cl]
+- 📧 [fmnarbona@cienciambiental.cl] 
