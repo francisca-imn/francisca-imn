@@ -1,4 +1,4 @@
-🎓 Estudiante de Ingeniería Forestal y articulando con el Magíster en Recursos Naturales en la Pontificia Universidad Católica de Chile.  
+🎓 Ingeniera Forestal y estudiante del Magíster en Recursos Naturales en la Pontificia Universidad Católica de Chile.  
 📍 Santiago, Chile
 
 ### 🌱 Sobre mí
