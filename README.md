@@ -1,5 +1,6 @@
-🎓 **Ingeniera Forestal**  
+🎓 **Ingeniera Forestal** (Pontificia Universidad Católica de Chile)    
 🎓 **Magíster en Recursos Naturales** (Pontificia Universidad Católica de Chile)  
+💻 **Especialista en datos ambientales** (Cienciambiental)  
 📍 Santiago, Chile  
 
 ---
